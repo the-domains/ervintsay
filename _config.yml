@@ -1,7 +1,7 @@
 name: ervintsay
 favicon: null
-layout_spectrum: 0.23324582888744771
-typography_spectrum: 0.31184264924377203
+layout_spectrum: 0.25166
+typography_spectrum: 0.51925
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.3340743822045624
-  lightness: 0.1996461283415556
-  saturation: 0.7092272492591292
-  rhythmicContrast: 0.16995015204884112
+    - '#6c6d71'
+    - '#221e1f'
+    - '#ce0402'
+    - '#520201'
+    - '#9da1a2'
+  brandStrength: 0.6875
+  lightness: 0.25
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
