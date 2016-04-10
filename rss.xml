@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ervintsay]]></title>
+        <description><![CDATA[ervintsay]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Apr 2016 07:10:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Inkognito board game review - The Board Game Family]]></title>
+            <description><![CDATA[<article><h1>Inkognito board game review - The Board Game Family</h1><p>Earlier this year, we posted our review of Inkognito the card game. It's a quick deduction game we really enjoy. At the end of our review, we mentioned Inkognito the board game but couldn't share our take on it because we'd never played it. But, that was then...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40cacfb8e637f614bef713a395530c42afdaec12.jpg"></article>]]></description>
+            <link>http://www.theboardgamefamily.com/2015/10/spies-everywhere-inkognito-the-board-game/</link>
+            <guid isPermaLink="false">5bc7648e-dd8e-4eb6-b478-7261b8ac7cd4</guid>
+            <pubDate>Sun, 10 Apr 2016 07:10:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
