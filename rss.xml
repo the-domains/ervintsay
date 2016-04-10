@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[ervintsay]]></title>
         <description><![CDATA[ervintsay]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ervintsay/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 07:10:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Apr 2016 07:15:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ervintsay/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Easy Product Photo Studio Discover more exciting classes: http://skl.sh/browse-photo" src="https://scontent.xx.fbcdn.net/hvthumb-xpt1/v/t15.0-10/p160x160/12720025_1389360201089412_77655487_n.jpg?oh=360fc82094cb2241a276e1ba4eae15f3&oe=57776BD3">]]></description>
+            <link>https://www.facebook.com/skillshare/videos/1389344294424336/</link>
+            <guid isPermaLink="false">8cbce8b7-547d-40ab-a8ca-4c0bd0391248</guid>
+            <pubDate>Sun, 10 Apr 2016 07:15:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Inkognito board game review - The Board Game Family]]></title>
             <description><![CDATA[<article><h1>Inkognito board game review - The Board Game Family</h1><p>Earlier this year, we posted our review of Inkognito the card game. It's a quick deduction game we really enjoy. At the end of our review, we mentioned Inkognito the board game but couldn't share our take on it because we'd never played it. But, that was then...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40cacfb8e637f614bef713a395530c42afdaec12.jpg"></article>]]></description>
