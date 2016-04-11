@@ -1,4 +1,14 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.facebook.com/skillshare/videos/1389344294424336/'
+inLanguage: null
+starred: false
+keywords: []
+description: 'Easy Product Photo Studio Discover more exciting classes: http://skl.sh/browse-photo'
+datePublished: '2016-04-11T14:13:54.526Z'
+dateModified: '2016-04-11T14:02:00.229Z'
 author:
   - name: Skillshare
     url: 'http://facebook.com/145067665518678'
@@ -14,13 +24,6 @@ author:
           - 96
           - 72
 related: []
-publisher:
-  url: 'http://www.facebook.com'
-  name: Facebook
-  favicon: 'https://fbstatic-a.akamaihd.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
-  domain: www.facebook.com
-keywords: []
-description: 'Easy Product Photo Studio Discover more exciting classes: http://skl.sh/browse-photo'
 title: ''
 app_links:
   - url: 'fb://video/1389344294424336'
@@ -33,16 +36,16 @@ app_links:
     namespace: ai
     app_name: Facebook
     app_store_id: '284882215'
-isBasedOnUrl: 'https://www.facebook.com/skillshare/videos/1389344294424336/'
-datePublished: '2016-04-10T07:15:41.683Z'
-dateModified: '2016-04-10T07:14:56.473Z'
 sourcePath: _posts/2016-04-10-easy-product-photo-studio-discover-more-exciting-classes-ht.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Facebook
+  domain: www.facebook.com
+  url: 'http://www.facebook.com'
+  favicon: 'https://fbstatic-a.akamaihd.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Easy Product Photo Studio Discover more exciting classes: http://skl.sh/browse-photo](https://scontent.xx.fbcdn.net/hvthumb-xpt1/v/t15.0-10/p160x160/12720025_1389360201089412_77655487_n.jpg?oh=360fc82094cb2241a276e1ba4eae15f3&oe=57776BD3)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/971b42fb547f0f3300899d4ec83b574b2db5c8cc.jpg)
