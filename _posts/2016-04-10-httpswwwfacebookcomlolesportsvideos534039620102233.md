@@ -1,20 +1,28 @@
 ---
-description: 'https://www.facebook.com/lolesports/videos/534039620102233/'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.facebook.com/'
+inLanguage: null
+starred: false
+keywords: []
+description: CLG vs TL double tp op af
+datePublished: '2016-04-11T14:01:43.265Z'
+dateModified: '2016-04-10T07:37:30.253Z'
 author: []
-datePublished: '2016-04-10T07:24:39.898Z'
-publisher:
-  domain: www.facebook.com
-  name: facebook.com
-dateModified: '2016-04-10T07:19:19.043Z'
 title: ''
 sourcePath: _posts/2016-04-10-httpswwwfacebookcomlolesportsvideos534039620102233.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: httpswwwfacebookcomlolesportsvideos534039620102233/index.html
+authors: []
+publisher:
+  name: facebook.com
+  domain: www.facebook.com
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
-https://www.facebook.com/lolesports/videos/534039620102233/
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b99d3e4-8845-4563-9cad-67298d50a9bd.jpg)
+
+CLG vs TL double tp op af
