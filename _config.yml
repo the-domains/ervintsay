@@ -1,6 +1,6 @@
 name: ervintsay
 favicon: null
-layout_spectrum: 0.57014
+layout_spectrum: 0.74714
 typography_spectrum: 0.52046
 title: ervin tsay
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#6c6d71'
-    - '#221e1f'
-    - '#ce0402'
-    - '#520201'
-    - '#9da1a2'
+    - '#f0f1f3'
+    - '#6a110b'
+    - '#706762'
+    - '#b5aba2'
+    - '#080300'
   brandStrength: 0.6875
   lightness: 0.25
   saturation: 0.5
