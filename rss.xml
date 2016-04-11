@@ -4,8 +4,15 @@
         <description><![CDATA[ervin tsay]]></description>
         <link>https://thegrid.ai/ervintsay/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 14:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 14:19:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ervintsay/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Double TP]]></title>
+            <description><![CDATA[<article><h1>Double TP</h1><p>CLG vs TL double tp op af</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b99d3e4-8845-4563-9cad-67298d50a9bd.jpg"></article>]]></description>
+            <link>https://www.facebook.com/</link>
+            <guid isPermaLink="false">993560bf-8b49-45c0-bc8d-a17534150316</guid>
+            <pubDate>Mon, 11 Apr 2016 14:18:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://cdn.earthporm.com/wp-content/uploads/2014/12/red_fox_comfortable1__880.jpg">]]></description>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/ervintsay/d25262ca-1a17-4764-819d-1428b8cd9a54/index.html</link>
             <guid isPermaLink="false">d25262ca-1a17-4764-819d-1428b8cd9a54</guid>
             <pubDate>Mon, 11 Apr 2016 14:12:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Double TP]]></title>
-            <description><![CDATA[<article><h1>Double TP</h1><p>CLG vs TL double tp op af</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b99d3e4-8845-4563-9cad-67298d50a9bd.jpg"></article>]]></description>
-            <link>https://www.facebook.com/</link>
-            <guid isPermaLink="false">993560bf-8b49-45c0-bc8d-a17534150316</guid>
-            <pubDate>Mon, 11 Apr 2016 14:01:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
